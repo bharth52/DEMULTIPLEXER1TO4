@@ -1,4 +1,6 @@
 # DEMULTIPLEXER1TO4
+# Aim:
+To simulate and synthesis demultiplexer 1 TO 4 using Vivado software.
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/b6d81e6c-81ec-4f91-ae42-832a68f8facc)
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/bb0a83c7-b4f3-463b-b422-f2ff65b1a0ee)
